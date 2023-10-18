@@ -1,0 +1,16 @@
+    <Group>
+      <Id>cheesebypass</Id>
+      <DisplayName>CheeseBypass</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>#3b57c2</Color>
+      <Members>
+        <Member>76561198185423987</Member>
+      </Members>
+      <ParentGroup>default</ParentGroup>
+      <Priority>30</Priority>
+      <Permissions>
+        <Permission Cooldown="0">bypass.58176</Permission>
+        <Permission Cooldown="0">vehiclebypass.13640</Permission>
+      </Permissions>
+    </Group>
